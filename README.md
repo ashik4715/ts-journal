@@ -1,6 +1,6 @@
-# Boilerplate Code for Typescript with Vuets-journal
+# A Boilerplate Code for Typescript with Vue
 
-A Boilerplate Code for Typescript with Vue.
+Project "ts-journal" contains a sample boilerplate code for typescript with Vue.
 
 ## How to Install
 
