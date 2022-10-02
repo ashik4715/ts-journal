@@ -1,30 +1,13 @@
-<<<<<<< HEAD
-# ts-journal
-A Sample Boilerplate Code for Typescript with Vue.
+# Boilerplate Code for Typescript with Vuets-journal
 
-# How to Install
-npx degit vueschool/ts-vue-boilerplate 
-
-# npm install
-npm run dev
-
-# Compile and Hot-Reload for Development
-npm run dev
-
-# Type-Check, Compile and Minify for Production
-npm run build
-
-# Lint with ESLint
-npm run lint
-=======
-# Boilerplate Code for Typescript with Vue.js 3 Course
-
-This is the boilerplate code for the TypeScript with Vue.js 3 Course.
+A Boilerplate Code for Typescript with Vue.
 
 ## How to Install
+
 ```sh
-npx degit vueschool/ts-vue-boilerplate 
+npx degit vueschool/ts-vue-boilerplate
 ```
+
 ```sh
 npm install
 npm run dev
@@ -47,4 +30,3 @@ npm run build
 ```sh
 npm run lint
 ```
->>>>>>> 4c5d949 (Frostbite commit)
